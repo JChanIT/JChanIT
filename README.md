@@ -2,4 +2,23 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - Python
+  • C++ (.NET Desktop Application)
+  
+    -Key Logger w/ Email Capabilities
+  
+    -Key Logger w/ Remote Capabilities
+  
+  •Python Projects
+  
+    -Ping Sweeper
+  
+    -Port Scanner
+  
+  •Hack The Box Reports
+  
+    -Report #1
+  
+    -Report #2
+  
+    -Report #3
+  
