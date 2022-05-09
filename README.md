@@ -7,7 +7,7 @@
 - <b>Hack The Box Reports</b>
   - [Case 00: HTB Name Here](https://github.com/JChanIT/)
 - <b>CyberDefenders Reports</b>
-  - [Malware Analysis 1 Lab Report](https://docs.google.com/document/d/1Kdho86Jsx4_ymfO9dZf4VnYLZyZapX_MG6PhBTlycEI/edit?usp=sharing) 
+  - [Malware Analysis 1: Lab Report](https://docs.google.com/document/d/1Kdho86Jsx4_ymfO9dZf4VnYLZyZapX_MG6PhBTlycEI/edit?usp=sharing) 
 - <b>Python</b>
   - [NAME HERE (NAME HERE)](https://github.com/JChanIT/Python-repository)
 
