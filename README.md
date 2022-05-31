@@ -7,9 +7,10 @@
 - <b>Hack The Box Reports</b>
   - [Case 00: HTB Name Here](https://github.com/JChanIT/)
 - <b>CyberDefenders Reports</b>
-  - [Malware Analysis 1: Lab Report](https://docs.google.com/document/d/1Kdho86Jsx4_ymfO9dZf4VnYLZyZapX_MG6PhBTlycEI/edit?usp=sharing) 
-- <b>Python</b>
-  - [NAME HERE (NAME HERE)](https://github.com/JChanIT/Python-repository)
+  - [Malware Analysis 1: Practice Report](https://docs.google.com/document/d/1Kdho86Jsx4_ymfO9dZf4VnYLZyZapX_MG6PhBTlycEI/edit?usp=sharing) 
+- <b>Analyst Projects</b>
+  - [SIEM Honeypot](https://github.com/JChanIT/Python-repository](https://github.com/JChanIT/Key-Logger-w-Email.git)
+  - [Data Retrieval](https://github.com/JChanIT/practice)
 
   <h2> 🤳 Connect with me:</h2>
   
