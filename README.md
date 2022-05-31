@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
   
 - <b>Data Science (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python]([https://github.com/JChanIT/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/JChanIT/Algorithms-Practice)
 - <b>Hack The Box Reports</b>
   - [Case 00: HTB Name Here](https://github.com/JChanIT/)
 - <b>CyberDefenders Reports</b>
