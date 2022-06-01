@@ -4,13 +4,13 @@
   
 - <b>Data Science (AlgoExpert) -In Progress </b>
   - [Praciting DS & Algos in Python](https://github.com/JChanIT/Algorithms-Practice)
-- <b>Hack The Box Reports</b>
+- <b>Hack The Box Reports -In Progress</b>
   - [Case 00: HTB Name Here](https://github.com/JChanIT/)
 - <b>CyberDefenders Reports</b>
   - [Malware Analysis 1: Practice Report](https://docs.google.com/document/d/1Kdho86Jsx4_ymfO9dZf4VnYLZyZapX_MG6PhBTlycEI/edit?usp=sharing) 
 - <b>Python Automation/Scripting & Analyst Projects</b>
-  - [SIEM Honeypot](https://github.com/JChanIT/Python-repository)
-  - [Data Retrieval](https://github.com/JChanIT/practice)
+  - [SIEM Honeypot -Developing](https://github.com/JChanIT/Python-repository)
+  - [Data Retrieval -Developing](https://github.com/JChanIT/practice)
 
   <h2> 🤳 Connect with me:</h2>
   
